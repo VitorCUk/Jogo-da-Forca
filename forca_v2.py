@@ -1,5 +1,4 @@
 # Hangman Game (Jogo da Forca)
-# Programação Orientada a Objetos
 
 # Import
 import random
